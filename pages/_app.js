@@ -1,5 +1,3 @@
-export default MyApp
-
 import Link from 'next/link'
 import { useState, useEffect } from 'react'
 import { supabase } from '../api'
